@@ -1,0 +1,128 @@
+[
+    {
+      "flightNumber": "FL001",
+      "departureLocationId": 22,
+      "arrivalLocationId": 21,
+      "departureTime": "2025-01-01T06:00:00",
+      "arrivalTime": "2025-01-01T08:00:00",
+      "priceEconomy": 250.00,
+      "airline": "Airline A"
+    },
+    {
+      "flightNumber": "FL001R",
+      "departureLocationId": 21,
+      "arrivalLocationId": 22,
+      "departureTime": "2025-01-01T19:30:00",
+      "arrivalTime": "2025-01-01T21:40:00",
+      "priceEconomy": 230.00,
+      "airline": "Airline A"
+    },
+    {
+      "flightNumber": "FL002",
+      "departureLocationId": 22,
+      "arrivalLocationId": 1,
+      "departureTime": "2025-01-01T21:00:00",
+      "arrivalTime": "2025-01-02T18:30:00",
+      "priceEconomy": 4800.00,
+      "airline": "Airline B"
+    },
+  {
+    "flightNumber": "FL003",
+    "departureLocationId": 22,
+    "arrivalLocationId": 3,
+    "departureTime": "2025-01-01T12:00:00",
+    "arrivalTime": "2025-01-01T18:30:00",
+    "priceEconomy": 2900.00,
+    "airline": "Airline B"
+  },
+  {
+    "flightNumber": "FL004",
+    "departureLocationId": 22,
+    "arrivalLocationId": 14,
+    "departureTime": "2025-01-01T07:30:00",
+    "arrivalTime": "2025-01-01T09:50:00",
+    "priceEconomy": 320.00,
+    "airline": "Airline C"
+  },
+  {
+    "flightNumber": "FL005",
+    "departureLocationId": 22,
+    "arrivalLocationId": 15,
+    "departureTime": "2025-01-01T10:00:00",
+    "arrivalTime": "2025-01-01T11:30:00",
+    "priceEconomy": 270.00,
+    "airline": "Airline C"
+  },
+  {
+    "flightNumber": "FL006",
+    "departureLocationId": 22,
+    "arrivalLocationId": 16,
+    "departureTime": "2025-01-01T15:00:00",
+    "arrivalTime": "2025-01-01T17:20:00",
+    "priceEconomy": 350.00,
+    "airline": "Airline C"
+  },
+  {
+    "flightNumber": "FL007",
+    "departureLocationId": 22,
+    "arrivalLocationId": 17,
+    "departureTime": "2025-01-01T22:00:00",
+    "arrivalTime": "2025-01-02T16:30:00",
+    "priceEconomy": 3900.00,
+    "airline": "Airline D"
+  },
+  {
+    "flightNumber": "FL008",
+    "departureLocationId": 22,
+    "arrivalLocationId": 33,
+    "departureTime": "2025-01-01T13:00:00",
+    "arrivalTime": "2025-01-01T16:10:00",
+    "priceEconomy": 410.00,
+    "airline": "Airline D"
+  },
+  {
+    "flightNumber": "FL009",
+    "departureLocationId": 22,
+    "arrivalLocationId": 36,
+    "departureTime": "2025-01-01T08:00:00",
+    "arrivalTime": "2025-01-01T12:00:00",
+    "priceEconomy": 480.00,
+    "airline": "Airline D"
+  },
+  {
+    "flightNumber": "FL010",
+    "departureLocationId": 22,
+    "arrivalLocationId": 39,
+    "departureTime": "2025-01-01T09:45:00",
+    "arrivalTime": "2025-01-01T11:50:00",
+    "priceEconomy": 320.00,
+    "airline": "Airline E"
+  },
+  {
+    "flightNumber": "FL011",
+    "departureLocationId": 22,
+    "arrivalLocationId": 41,
+    "departureTime": "2025-01-01T12:30:00",
+    "arrivalTime": "2025-01-01T19:45:00",
+    "priceEconomy": 3200.00,
+    "airline": "Airline E"
+  },
+  {
+    "flightNumber": "FL012",
+    "departureLocationId": 22,
+    "arrivalLocationId": 45,
+    "departureTime": "2025-01-01T16:00:00",
+    "arrivalTime": "2025-01-01T23:50:00",
+    "priceEconomy": 3300.00,
+    "airline": "Airline E"
+  },
+  {
+    "flightNumber": "FL013",
+    "departureLocationId": 22,
+    "arrivalLocationId": 47,
+    "departureTime": "2025-01-01T17:30:00",
+    "arrivalTime": "2025-01-01T23:15:00",
+    "priceEconomy": 2800.00,
+    "airline": "Airline E"
+  }
+]

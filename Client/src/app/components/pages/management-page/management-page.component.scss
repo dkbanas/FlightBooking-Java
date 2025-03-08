@@ -1,0 +1,113 @@
+/* Management Page Styles */
+
+/* Container Spacing */
+.container {
+  background-color: #f8f9fa; /* Light background */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Section Titles */
+h2 {
+  color: #003366; /* Deep Navy Blue */
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+/* Cards */
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  color: #003366;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 0.95rem;
+  color: #333;
+}
+
+/* Images */
+.img-thumbnail {
+  border: 2px solid #FFD700; /* Yellow border for consistency */
+  padding: 2px;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #003366;
+  border-color: #003366;
+}
+
+.btn-primary:hover {
+  background-color: #004080; /* Slightly lighter navy */
+  border-color: #004080;
+}
+
+.btn-danger {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+.btn-danger:hover {
+  background-color: #a71d2a;
+  border-color: #8f1823;
+}
+
+/* Pagination */
+.ngb-pagination {
+  justify-content: center;
+}
+
+.ngb-pagination .page-item .page-link {
+  color: #003366; /* Navy text */
+}
+
+.ngb-pagination .page-item.active .page-link {
+  background-color: #FFD700; /* Yellow background for active page */
+  border-color: #FFD700;
+  color: black;
+}
+
+/* Form Controls */
+select {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 10px;
+  color: #333;
+}
+
+/* Alerts */
+.alert-info {
+  background-color: #e7f3ff; /* Light blue */
+  color: #003366; /* Deep navy text */
+  border: 1px solid #b8daff; /* Light blue border */
+  border-radius: 4px;
+}
+
+/* Spacing and Alignment */
+.mb-3 {
+  margin-bottom: 20px;
+}
+
+.d-flex {
+  gap: 10px;
+}
+
+.bg-orange {
+  background-color: #fd7e14 !important;
+}
+.bg-indigo {
+  background-color: #4B0082 !important;
+}

@@ -1,0 +1,436 @@
+[
+    {
+        "name": "Sydney Kingsford Smith Airport",
+        "code": "SYD",
+        "city": "Sydney",
+        "country": "Australia",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/SYD.png",
+        "continent": "Australia"
+    },
+    {
+        "name": "São Paulo/Guarulhos International Airport",
+        "code": "GRU",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/GRU.png",
+        "continent": "South America"
+    },
+    {
+        "name": "Toronto Pearson International Airport",
+        "code": "YYZ",
+        "city": "Mississauga",
+        "country": "Canada",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/YYZ.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Beijing Capital International Airport",
+        "code": "PEK",
+        "city": "Beijing",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/PEK.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Chongqing Jiangbei International Airport",
+        "code": "CKG",
+        "city": "Chongqing",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/CKG.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Hangzhou Xiaoshan International Airport",
+        "code": "HGH",
+        "city": "Hangzhou",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/HGH.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Hong Kong International Airport",
+        "code": "HKG",
+        "city": "Hong Kong",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/HKG.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kunming Changshui International Airport",
+        "code": "KMG",
+        "city": "Kunming",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/KMG.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Shanghai Hongqiao International Airport",
+        "code": "SHA",
+        "city": "Shanghai",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/SHA.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Shanghai Pudong International Airport",
+        "code": "PVG",
+        "city": "Pudong",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/PVG.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Shenzen Bao'an International Airport",
+        "code": "SZX",
+        "city": "Bao'an",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/SZX.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Xi'an Xianyang International Airport",
+        "code": "XIY",
+        "city": "Xi'an",
+        "country": "China",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/XIY.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "El Dorado International Airport",
+        "code": "BOG",
+        "city": "Bogotá",
+        "country": "Colombia",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/BOG.png",
+        "continent": "South America"
+
+    },
+    {
+        "name": "Charles de Gaulle Airport",
+        "code": "CDG",
+        "city": "Paris",
+        "country": "France",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/CDG.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Frankfurt Airport",
+        "code": "FRA",
+        "city": "Frankfurt",
+        "country": "Germany",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/FRA.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Munich Airport",
+        "code": "MUC",
+        "city": "Freising",
+        "country": "Germany",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/MUC.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Rome–Fiumicino International Airport",
+        "code": "FCO",
+        "city": "Fiumicino",
+        "country": "Italy",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/FCO.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Tokyo Haneda Airport",
+        "code": "HND",
+        "city": "Tokyo",
+        "country": "Japan",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/HND.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Kuala Lumpur International Airport",
+        "code": "KUL",
+        "city": "Sepang",
+        "country": "Malaysia",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/KUL.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Mexico City International Airport",
+        "code": "MEX",
+        "city": "Venustiano Carranza",
+        "country": "Mexico",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/MEX.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Amsterdam Airport Schiphol",
+        "code": "AMS",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/AMS.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Warsaw Chopin Airport",
+        "code": "WAW",
+        "city": "Warsaw",
+        "country": "Poland",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/WAW.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Kraków Airport",
+        "code": "KRK",
+        "city": "Kraków",
+        "country": "Poland",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/KRK.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Gdańsk Lech Wałęsa Airport",
+        "code": "GDN",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/GDN.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Katowice Airport",
+        "code": "KTW",
+        "city": "Katowice",
+        "country": "Poland",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/KTW.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Wrocław Airport",
+        "code": "WRO",
+        "city": "Wrocław",
+        "country": "Poland",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/WRO.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Poznań Airport",
+        "code": "POZ",
+        "city": "Poznań",
+        "country": "Poland",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/POZ.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Hamad International Airport",
+        "code": "DOH",
+        "city": "Doha",
+        "country": "Qatar",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/DOH.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Sheremetyevo International Airport",
+        "code": "SVO",
+        "city": "Khimki",
+        "country": "Russia",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/SVO.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Singapore Changi Airport",
+        "code": "SIN",
+        "city": "Singapore",
+        "country": "Singapore",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/SIN.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Incheon International Airport",
+        "code": "ICN",
+        "city": "Seoul",
+        "country": "South Korea",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/ICN.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Jeju International Airport",
+        "code": "CJU",
+        "city": "Jeju City",
+        "country": "South Korea",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/CJU.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Adolfo Suarez Marid-Barajas Airport",
+        "code": "MAD",
+        "city": "Madrid",
+        "country": "Spain",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/MAD.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Josep Tarradellas Barcelona–El Prat Airport",
+        "code": "BCN",
+        "city": "Barcelona",
+        "country": "Spain",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/BCN.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Suvarnabhumi Airport",
+        "code": "BKK",
+        "city": "Racha Thewa Bangkok metro",
+        "country": "Thailand",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/BKK.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Istanbul Airport",
+        "code": "IST",
+        "city": "Arnavutkoy",
+        "country": "Turkey",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/IST.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Dubai International Airport",
+        "code": "DXB",
+        "city": "Dubai",
+        "country": "UAE",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/DXB.png",
+        "continent": "Asia"
+    },
+    {
+        "name": "Gatwick Airport",
+        "code": "LGW",
+        "city": "Crawley",
+        "country": "UK",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/LGW.png",
+        "continent": "Europe"
+    },
+    {
+        "name": "Heathrow Airport",
+        "code": "LHR",
+        "city": "London",
+        "country": "UK",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/LHR.png",
+        "continent": "Europe"
+
+    },
+    {
+        "name": "Charlotte Douglas International Airport",
+        "code": "CLT",
+        "city": "Charlotte",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/CLT.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Chicago O'Hare International Airport",
+        "code": "ORD",
+        "city": "Chicago",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/ORD.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Dallas/Fort Worth International Airport",
+        "code": "DFW",
+        "city": "Dallas",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/DFW.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Denver International Airport",
+        "code": "DEN",
+        "city": "Denver",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/DEN.png",
+        "continent": "North America"
+    },
+    {
+        "name": "George Bush Intercontinental Airport",
+        "code": "IAH",
+        "city": "Houston",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/IAH.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Harry Reid International Airport",
+        "code": "LAS",
+        "city": "Las Vegas",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/LAS.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Hartsfield-Jackson Atlanta International Airport",
+        "code": "ATL",
+        "city": "Atlanta",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/ATL.png",
+        "continent": "North America"
+    },
+    {
+        "name": "John F. Kennedy International Airport",
+        "code": "JFK",
+        "city": "New York",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/JFK.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Logan International Airport",
+        "code": "BOS",
+        "city": "Boston",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/BOS.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Los Angeles International Airport",
+        "code": "LAX",
+        "city": "Los Angeles",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/LAX.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Miami International Airport",
+        "code": "MIA",
+        "city": "Miami-Dade County",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/MIA.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Orlando International Airport",
+        "code": "MCO",
+        "city": "Orlando",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/MCO.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Phoenix Sky Harbor International Airport",
+        "code": "PHX",
+        "city": "Phoenix",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/PHX.png",
+        "continent": "North America"
+    },
+    {
+        "name": "San Francisco International Airport",
+        "code": "SFO",
+        "city": "San Mateo County",
+        "country": "USA",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/SFO.png",
+        "continent": "North America"
+    },
+    {
+        "name": "Václav Havel Airport Prague",
+        "code": "PRG",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "cityPhotoUrl": "http://localhost:8080/images/airports/PRG.png",
+        "continent": "Europe"
+    }
+]

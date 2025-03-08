@@ -1,0 +1,113 @@
+/* General Container Styling */
+.container {
+  margin-top: 30px;
+}
+
+/* Cards for Airports */
+.airport-card {
+  border-radius: 10px; /* Rounded corners for a clean look */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for elevation */
+}
+
+.airport-card:hover {
+  transform: scale(1.05); /* Slight scale effect */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+/* Airport Image */
+.airport-card img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  object-fit: cover;
+}
+
+/* Active Category Chips */
+.btn.active-chip {
+  background-color: #FFD700; /* Gold for active chips */
+  color: black;
+  border-color: #FFD700;
+}
+
+.btn.active-chip:hover {
+  background-color: #FFC300; /* Slightly darker gold */
+  border-color: #FFC300;
+}
+
+/* General Buttons */
+.btn {
+  transition: all 0.3s ease;
+}
+
+.btn-outline-primary {
+  border-color: #003366; /* Deep navy border */
+  color: #003366;
+}
+
+.btn-outline-primary:hover {
+  background-color: #003366; /* Deep navy fill */
+  color: white;
+  border-color: #003366;
+}
+
+/* Pagination */
+.ngb-pagination .page-link {
+  color: #003366; /* Deep navy for pagination links */
+}
+
+.ngb-pagination .page-link:hover {
+  color: #FFD700; /* Gold on hover */
+  background-color: transparent;
+}
+
+.ngb-pagination .page-item.active .page-link {
+  background-color: #FFD700; /* Gold for active page */
+  border-color: #FFD700;
+  color: black;
+}
+
+/* Dropdowns */
+.form-select {
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  transition: box-shadow 0.3s ease;
+}
+
+.form-select:focus {
+  box-shadow: 0 0 5px rgba(255, 215, 0, 0.5); /* Subtle gold glow */
+  border-color: #FFD700; /* Gold border on focus */
+}
+
+/* Typography */
+h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #003366;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  color: #003366; /* Deep navy for titles */
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #555; /* Neutral text color */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .d-flex.flex-wrap > div {
+    flex-basis: 100%;
+  }
+}
+
+@media (hover: none) {
+  .airport-card {
+    transform: scale(1.02);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  }
+}
